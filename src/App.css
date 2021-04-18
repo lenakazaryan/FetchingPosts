@@ -1,0 +1,18 @@
+body {
+  cursor: pointer;
+  font-family: sans-serif;
+}
+
+.App {
+  font-size: 20px;
+}
+
+.text {
+  text-align: center;
+  color: red;
+  font-size: 30px;
+}
+
+.posts {
+  border: 3px solid gray;
+}
